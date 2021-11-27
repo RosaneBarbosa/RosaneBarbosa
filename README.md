@@ -1,11 +1,10 @@
-👋 Olá! Eu sou a Rosane Barbosa.
+## **Olá! Eu sou a Rosane Barbosa.** 👋
 
-- 👀 Estou sempre em "mode learning", atualmente estou concluindo a Formação Cientista de Dados da Data Science Academy.
+- 👀 Estou sempre em *"mode learning"*, atualmente estou concluindo a Formação Cientista de Dados da Data Science Academy.
 
 - 💻📊 Habilidade com linguagens de programação e ferramentas de modelagem: Python, R, SAS, Power BI, Excel, SQL, Ecossistema Hadoop entre outros :)
 
-- 📫 Contato: rosabr@yahoo.com 
-
+- 📫 Contato: rosabr@yahoo.com ou envie uma mensagem no [Linkedin](https://www.linkedin.com/in/rosane-m-barbosa-142a6537/).
 
 <!---
 RosaneBarbosa/RosaneBarbosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
