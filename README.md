@@ -1,4 +1,4 @@
-- 👋 Olá! Eu sou a Rosane Barbosa.
+👋 Olá! Eu sou a Rosane Barbosa.
 
 - 👀 Estou sempre em "mode learning", atualmente estou concluindo a Formação Cientista de Dados da Data Science Academy.
 
