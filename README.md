@@ -7,8 +7,6 @@
 - 📫 Contato: rosabr@yahoo.com ou envie mensagem no [Linkedin](https://www.linkedin.com/in/rosane-m-barbosa-142a6537/).
 
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RosaneBarbosa&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
 
 <!---
 RosaneBarbosa/RosaneBarbosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
