@@ -6,4 +6,3 @@
 
 - 📫 Contato: rosabr@yahoo.com ou envie mensagem no [Linkedin](https://www.linkedin.com/in/rosane-m-barbosa-142a6537/).
 
-
