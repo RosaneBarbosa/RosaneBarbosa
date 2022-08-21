@@ -1,6 +1,6 @@
 ## **Olá! Eu sou a Rosane Barbosa.** 👋
 
-- 👀 Estou sempre em *"learning mode"*, atualmente estou concluindo a Formação Cientista de Dados da Data Science Academy.
+- 👀 Estou sempre em *"learning mode"*, concluí recentemente a Formação Cientista de Dados da Data Science Academy.
 
 - 💻📊 Habilidade com linguagens de programação e ferramentas de modelagem: Python, R, SAS, Power BI, Excel, SQL, Ecossistema Hadoop entre outros :)
 
